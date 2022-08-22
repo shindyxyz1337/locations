@@ -1,5 +1,8 @@
 {
-[
+    "name": "sigma's HvH locations",
+    "description": "Revolutionizing spread HvH",
+	"update_timestamp": 1606533611,
+    "locations": {
   {
     "name": ["Unnamed", "Wall"],
     "weapon": "weapon_molotov",
@@ -2284,5 +2287,4 @@
       "run": 11
     }
   }
-]
 }
